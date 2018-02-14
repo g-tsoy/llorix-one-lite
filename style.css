@@ -1,0 +1,38 @@
+body{
+	background-color: lightgreen;
+
+}
+h1, h2{
+	text-align: center;
+	margin-top: 40px;
+}
+.center img{
+	width: 1000px;
+	display: block;
+	margin:0 auto;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22px;
+	margin-top: 40px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+ol{
+	margin-top, margin-bottom: 20px;
+	margin-left: 30px;
+	list-style-type: upper-roman;
+	font-size: 22px;
+}
+.way{
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 24px;
+	margin: 40px;
+}
+footer{
+	background-color: white ;
+	background-size:cover;
+	font-size:18px;
+	text-align: center;
+}

@@ -1,0 +1,65 @@
+body{
+	background: url(back.jpg) no-repeat;
+	background-size: cover;
+}
+h1,h2{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.im{margin-top: 10px;
+	margin-left: 15px;
+	float:left;
+	margin-right: 10px;
+}
+
+p{ font-family: "Times New Roman", Times, serif;
+	
+	font-size: 20px;
+	padding: 10px;
+}
+h2{
+	font-style: italic;
+	font-size: 24px;
+	padding: 10px;
+
+}
+.tochki{font-style: italic;
+	font-size: 20px;
+	padding: 10px;
+
+}
+a:hover{
+	color: green;
+}
+table{font-size: 16px;
+	border-collapse: collapse;
+	width:100%;
+}
+/*table,th,td{
+	font-size: 20px;
+	padding: 10px;
+	border: 2px solid white;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10px;*/
+}
+th{
+	font-style: bold;
+	text-align:center;
+	padding: 10px}
+td{font-style: italic;
+	text-align:center;
+	padding: 10px}
+tr{background-color:#FFFACD;}
+th{
+	background-color:grey;
+	color:white;
+}
+footer{
+	background-color: white ;
+	background-size:cover;
+	font-size:18px;
+	text-align: center;
+}
